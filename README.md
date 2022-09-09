@@ -1,6 +1,6 @@
  Hi, I’m Rhine
  I am a second year software engineer at UQAM,  based in Montreal.  
-I am very interested in Data Science, AI and CyberSecurity
+I am very interested in Data Science, AI and CyberSecurity.
 I am fluent in both English and French.
 My email is Promitkumarnag@gmail.com
 
